@@ -7,3 +7,4 @@ CREATE TABLE IF NOT EXISTS place (
     created_at timestamp not null,
     updated_at timestamp not null
     );
+
