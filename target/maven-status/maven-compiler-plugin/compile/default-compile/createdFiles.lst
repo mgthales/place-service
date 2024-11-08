@@ -1,0 +1,9 @@
+br\com\thalesmonteiro\place_service\api\PlaceResponse.class
+br\com\thalesmonteiro\place_service\web\PlaceMapper.class
+br\com\thalesmonteiro\place_service\PlaceServiceApplication.class
+br\com\thalesmonteiro\place_service\web\PlaceController.class
+br\com\thalesmonteiro\place_service\domain\Place.class
+br\com\thalesmonteiro\place_service\api\PlaceRequest.class
+br\com\thalesmonteiro\place_service\domain\PlaceService.class
+br\com\thalesmonteiro\place_service\config\PlaceConfig.class
+br\com\thalesmonteiro\place_service\domain\PlaceRepository.class
